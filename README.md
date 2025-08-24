@@ -1,8 +1,7 @@
 
 # 👋 Hi, I'm Abhijith!
 
-🎓 Master's Student in Data Science | 💻 Aspiring Machine Learning Engineer  
-📍 Currently based in the USA | 🌍 Originally from India  
+🎓 Master's Student in Data Science | 💻 Aspiring Data Scientist   
 
 ---
 
