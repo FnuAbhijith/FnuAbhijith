@@ -40,5 +40,5 @@ I am actively enhancing my skills through courses, projects, and collaborations.
 ## 📫 Let’s Connect!
 - 🌐 [Portfolio Website](https://fnuabhijith.github.io/Abhijith-Portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fnuabhijith/)
-- 📧 Email: abhijith@memphis.edu
+- 📧 Email: fnuabhijith09@gmail.com
 
