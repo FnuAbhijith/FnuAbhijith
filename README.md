@@ -1,22 +1,28 @@
 
-# 👋 Hi, I'm Abhijith!
+# 👋 Hi, I’m Abhijith
 
-🎓 Master's Student in Data Science | 💻 Aspiring Data Scientist   
-
----
-
-## 💡 About Me
-I'm passionate about building data-driven solutions to real-world problems. With hands-on experience in data analysis, machine learning, and model deployment, I love transforming raw data into actionable insights.
+**Data Scientist | Decision-Focused Analytics & Machine Learning**  
+📍 Memphis, TN, USA  
 
 ---
 
-## 🌟 Highlights
-- Completed multiple real-world projects involving classification, regression, and time-series forecasting.  
-- Experienced with popular ML libraries such as Scikit-Learn, TensorFlow, PyTorch, and CatBoost.  
-- Skilled in data visualization tools like Matplotlib, Seaborn, and Power BI for storytelling with data.  
-- Strong understanding of database management, SQL, and cloud-based data warehousing (Snowflake).  
-- Passionate about open-source contribution and community engagement.  
+## 🧠 About Me
 
+Data professional with **4.5+ years of experience** building analytics and machine learning solutions where **business decisions—not models—are the primary output**. I specialize in **experimentation, cost-aware modeling, and executive dashboards**, with hands-on experience delivering end-to-end analytics from problem definition to stakeholder delivery.
+
+I’ve worked across enterprise environments, partnering with **product, business, and engineering teams** to translate ambiguous requirements into **scalable, production-ready analytical solutions** that drive measurable outcomes.
+
+---
+
+## ⭐ Highlights
+
+- Designed and delivered **decision-focused analytics and ML solutions** used by business and leadership teams  
+- Experience with **A/B experimentation, predictive modeling, feature engineering, and advanced EDA**  
+- Built **cost-aware ML systems** and explainable models to support risk-aware decision-making  
+- Developed **executive dashboards and reports** to communicate insights clearly and effectively  
+- Strong focus on **data quality, reproducibility, and business impact**
+
+---
 
 ## 🚀 Skills & Tools
 
