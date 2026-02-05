@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-Data professional with **4.5+ years of experience** building analytics and machine learning solutions where **business decisions—not models—are the primary output**. I specialize in **experimentation, cost-aware modeling, and executive dashboards**, with hands-on experience delivering end-to-end analytics from problem definition to stakeholder delivery.
+Data professional building analytics and machine learning solutions where **business decisions—not models—are the primary output**. I specialize in **experimentation, cost-aware modeling, and executive dashboards**, with hands-on experience delivering end-to-end analytics from problem definition to stakeholder delivery.
 
 I’ve worked across enterprise environments, partnering with **product, business, and engineering teams** to translate ambiguous requirements into **scalable, production-ready analytical solutions** that drive measurable outcomes.
 
