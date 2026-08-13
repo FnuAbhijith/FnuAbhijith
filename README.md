@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Abhijith
 
-**AI R&D Intern @ University of Memphis | Data Scientist | Machine Learning & Decision-Focused Analytics**  
+**AI Research Data Scientist Intern @ University of Memphis | Data Scientist | Machine Learning & Decision-Focused Analytics**  
 📍 Memphis, TN, USA  
 
 ---
