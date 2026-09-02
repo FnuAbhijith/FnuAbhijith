@@ -13,7 +13,7 @@ Data professional building analytics and machine learning solutions where busine
 I’ve worked across enterprise environments, partnering with **product, business, and engineering teams** to translate ambiguous requirements into **scalable, production-ready analytical solutions** that drive measurable outcomes.
 
 🧪 Current Work
-• AI R&D Intern at University of Memphis (Healthcare AI, Biomedical Data)
+• AI R&D at University of Memphis (Healthcare AI, Biomedical Data)
 
 ---
 
