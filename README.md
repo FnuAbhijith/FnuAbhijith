@@ -1,19 +1,19 @@
 
 # 👋 Hi, I’m Abhijith
 
-**AI R&D @ University of Memphis | Data Scientist | Machine Learning & Decision-Focused Analytics**  
+**AI R&D Intern @ University of Memphis | Data Scientist | Machine Learning & Decision-Focused Analytics**  
 📍 Memphis, TN, USA  
 
 ---
 
 ## 🧠 About Me
 
-Data professional building analytics and machine learning solutions where business decisions—not just models—are the primary output. Currently working as an AI R&D at the Biomedical Sensors & Systems Lab, University of Memphis, developing AI-driven solutions for healthcare data analysis, medical diagnostics, and patient monitoring.
+Data professional building analytics and machine learning solutions where business decisions—not just models—are the primary output. Currently working as an AI R&D Intern at the Biomedical Sensors & Systems Lab, University of Memphis, developing AI-driven solutions for healthcare data analysis, medical diagnostics, and patient monitoring.
 
 I’ve worked across enterprise environments, partnering with **product, business, and engineering teams** to translate ambiguous requirements into **scalable, production-ready analytical solutions** that drive measurable outcomes.
 
 🧪 Current Work
-• AI R&D at University of Memphis (Healthcare AI, Biomedical Data)
+• AI R&D Intern at University of Memphis (Healthcare AI, Biomedical Data)
 
 ---
 
@@ -49,7 +49,6 @@ I am actively enhancing my skills through courses, projects, and collaborations.
 
    
 ## 📫 Let’s Connect!
-- 🌐 [Portfolio Website](https://fnuabhijith.github.io/Abhijith-Portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhijith09)
 - 📧 Email: abhijithcareers4@gmail.com
 
